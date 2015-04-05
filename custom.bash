@@ -26,8 +26,13 @@ gcark() {
 }
 
 #Laravel
-alias composer='php /home/arkeidolon/composer.phar'
+alias composer='sudo php /home/arkeidolon/composer.phar'
+alias laravel='~/.composer/vendor/laravel/installer/laravel'
 alias perv='php artisan serve'
+alias art='php artisan'
+export APP_ENV='development'
+export APP_DEBUG=true
+export DB_USERNAME='root'
 
 # Django
 alias py='python3'
