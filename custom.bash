@@ -34,6 +34,9 @@ export APP_ENV='development'
 export APP_DEBUG=true
 export DB_USERNAME='root'
 
+# PHP Storm
+alias phpst='~/Documents/PhpStorm-139.1348/bin/phpstorm.sh'
+
 # Django
 alias py='python3'
 alias django='django-admin'
