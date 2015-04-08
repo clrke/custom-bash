@@ -21,6 +21,7 @@ alias gr='git reset'
 alias grh='git reset --hard'
 alias gc='git commit -m'
 alias gp='git push'
+alias gclone='git clone'
 gcark() {
   git clone http://github.com/arkeidolon/$1
 }
