@@ -38,6 +38,12 @@ export DB_USERNAME='root'
 # PHP Storm
 alias phpst='~/Documents/PhpStorm-139.1348/bin/phpstorm.sh'
 
+# Pip
+alias pipi='sudo pip install'
+alias pipir='sudo pip install -r'
+alias pipi3='sudo pip3 install'
+alias pipir3='sudo pip3 install -r'
+
 # Django
 alias py='python3'
 alias django='django-admin'
